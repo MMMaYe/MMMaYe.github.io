@@ -47,15 +47,15 @@ owner:
 #  `external: true` opens the link in a new tab.
 # --------------------------------------------------
 links:
-  - title: About Me
+  - title: 关于我
     url: /
-  - title: Publications
+  - title: 个人简历
     url: /publications/
-  - title: Awards
+  - title: 基础学科⚙️
     url: /awards/
-  - title: Hobbies
+  - title: JAVA学习📑
     url: /hobbies/
-  - title: Blogs
+  - title: 阅读📖
     url: /blogs/
   - title: 中文
     url: /cn/
