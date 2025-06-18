@@ -7,7 +7,7 @@ tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://caihanlin.com
+url:
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
@@ -16,8 +16,7 @@ owner:
   name: 马也
   avatar: hanlin.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
-  email: hc663@cam.ac.uk
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  email: 13856005529@163.com
 
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -25,7 +24,7 @@ owner:
   github: MMMaYe
   # linkedin: hanlincai
   # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
+  # researchgate: https://www.researchgate.net/profile/Hanlin-Cai
   # zhihu: https://www.zhihu.com/people/chlire
   # xiaohongshu: 5c27848f0000000005030c6f
   # bilibili: 594030035
@@ -38,7 +37,7 @@ owner:
 # --------------------------------------------------
 #  SEARCH-ENGINE VERIFICATION & ANALYTICS
 # --------------------------------------------------
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+# google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # bing_verify: ""    # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # google_analytics: "G-XXXXXXX"                                 # GA-4 property ID
 
